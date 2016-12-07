@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="y89-i5-Xjj">
+            <objects>
+                <viewController id="622-O7-Ie4" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="qnA-oV-5e1"/>
+                        <viewControllerLayoutGuide type="bottom" id="9Zo-YN-3id"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="GT8-aL-rhc">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Cow" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EhL-Gz-BcR">
+                                <rect key="frame" x="300" y="271" width="34" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="er7-cz-iGC"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="d4n-ru-9l2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-414" y="-361"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="nZH-xh-r4V">
+            <objects>
+                <viewController id="6HN-Kc-iiw" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ax7-ei-xZ7"/>
+                        <viewControllerLayoutGuide type="bottom" id="rGi-wz-1tY"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="0rs-KJ-tvB">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dragon" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jIQ-TB-CcW">
+                                <rect key="frame" x="204" y="213" width="57" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="qjI-oZ-TyX"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Kgi-vP-XTd" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="250" y="-1132"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="ko5-ec-ZvL">
+            <objects>
+                <viewController id="md2-yU-A7R" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Qh9-bV-eEl"/>
+                        <viewControllerLayoutGuide type="bottom" id="Wng-pb-7Jw"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Qdz-VZ-gXB">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Mouse" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tBs-WF-t14">
+                                <rect key="frame" x="267" y="158" width="52" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="imV-iE-fbr"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kXC-cK-dao" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="240" y="-382"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="xoH-87-T9r">
+            <objects>
+                <viewController id="7yv-nx-UCK" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="mes-da-zBb"/>
+                        <viewControllerLayoutGuide type="bottom" id="lCb-Ae-CmI"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kdk-0S-NGF">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Fish" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LPJ-l3-OkG">
+                                <rect key="frame" x="307" y="255" width="32" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="mha-Gc-iHu"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="TWR-Ko-7bt" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="938" y="-403"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="Segues_Example" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Find Out Your Spirit Animal" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JYI-4A-R9V">
+                                <rect key="frame" x="20" y="-33" width="567" height="160"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="46"/>
+                                <color key="textColor" red="0.19234305838767765" green="0.24088998413621968" blue="0.61103157722513091" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rcq-B5-f9J">
+                                <rect key="frame" x="64" y="206" width="472" height="163"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="42"/>
+                                <state key="normal" title="GO">
+                                    <color key="titleColor" red="0.18487909890371759" green="0.23866101143097335" blue="0.70465886780104714" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <connections>
+                        <segue destination="7yv-nx-UCK" kind="push" identifier="2" id="L5T-rq-ncf"/>
+                        <segue destination="md2-yU-A7R" kind="push" identifier="3" id="Ryu-x2-Mjx"/>
+                        <segue destination="622-O7-Ie4" kind="push" identifier="4" id="ahm-Xv-UfB"/>
+                        <segue destination="kRC-aM-wzs" kind="push" identifier="5" id="wsp-fx-ufq"/>
+                        <segue destination="xWE-TZ-Dgq" kind="push" identifier="7" id="Bre-YM-nd6"/>
+                        <segue destination="J84-ZU-4aS" kind="push" identifier="9" id="gar-mi-G4b"/>
+                        <segue destination="6HN-Kc-iiw" kind="push" identifier="10" id="LEj-ES-5jQ"/>
+                        <segue destination="ewA-z9-XMl" kind="push" identifier="11" id="7gt-RS-AOc"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="240" y="298"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="0ju-3d-8J8">
+            <objects>
+                <viewController id="kRC-aM-wzs" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="RcO-SP-Njb"/>
+                        <viewControllerLayoutGuide type="bottom" id="ukY-yY-8Wj"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="KuG-yr-vnd">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Unicorn" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="40v-Wa-AOi">
+                                <rect key="frame" x="274" y="119" width="61" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="0rC-pS-242"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ahw-mN-Uvl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="170" y="1142"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="5VL-C8-EkO">
+            <objects>
+                <viewController id="ewA-z9-XMl" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="u1a-eV-qQr"/>
+                        <viewControllerLayoutGuide type="bottom" id="qKY-zo-8ZU"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="grA-eH-aUp">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Goat" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rfy-rt-EVG">
+                                <rect key="frame" x="284" y="171" width="37" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="vny-sk-f6p"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="B4n-Qa-HrN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="816" y="1702"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="2Jn-PK-zmc">
+            <objects>
+                <viewController id="J84-ZU-4aS" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="gEa-4l-nPM"/>
+                        <viewControllerLayoutGuide type="bottom" id="TTX-lq-GB0"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="sZb-Cc-b3m">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Rino" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UqQ-Px-TCl">
+                                <rect key="frame" x="312" y="225" width="34" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="hzY-II-TfT"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iOR-3L-pEq" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-490" y="895"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="fIk-yM-IRo">
+            <objects>
+                <viewController id="iF1-Ww-Kav" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Nfz-ae-qed"/>
+                        <viewControllerLayoutGuide type="bottom" id="AX7-U8-EUy"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="D2Y-mn-dSr">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xxm-rv-yvE">
+                                <rect key="frame" x="271" y="540" width="59" height="30"/>
+                                <state key="normal" title="Go back">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Lion" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EYP-z8-Sao">
+                                <rect key="frame" x="265" y="210" width="33" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="2cF-Aa-DTy"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0uQ-Y0-Ns6" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="938" y="276"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="BxG-ZV-N9K">
+            <objects>
+                <viewController id="xWE-TZ-Dgq" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="B24-tq-Y4F"/>
+                        <viewControllerLayoutGuide type="bottom" id="hVk-ME-t8U"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="U09-j6-Gdb">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Chiken" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DF8-3K-MXG">
+                                <rect key="frame" x="289" y="197" width="53" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="8MG-Yb-X7V"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="GkX-mP-Kun" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="962" y="983"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="83H-8t-aJM">
+            <objects>
+                <viewController id="hwS-25-Hxv" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="hk1-d8-vwp"/>
+                        <viewControllerLayoutGuide type="bottom" id="ARe-8D-9xE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="ON0-RM-ZcA">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Pig" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ieu-jg-7zR">
+                                <rect key="frame" x="229" y="225" width="25" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="4jQ-yR-Yvq"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kcj-r4-fBj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1135" y="315"/>
+        </scene>
+    </scenes>
+</document>
